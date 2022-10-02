@@ -1,0 +1,3 @@
+﻿  Students.cpp
+C:\Users\Danla-monster\source\repos\Students\Students\Students.cpp(84,15): warning C4101: Y: неиспользованная локальная переменная
+  Students.vcxproj -> C:\Users\Danla-monster\source\repos\Students\Debug\Students.exe
